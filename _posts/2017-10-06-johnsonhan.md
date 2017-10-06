@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Johnson ShareCenter (建设中)"
+categories: JavaScript
+tags:  countdown JavaScript
+author: Johnson
+---
+
+* content
+{:toc}
+
 ## Johnson ShareCenter (建设中)
 
 
