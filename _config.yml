@@ -9,7 +9,7 @@
 title: JohnsonShareCenter
 brief-intro: Immunotherapy
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https://JohnsonHan.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -49,8 +49,8 @@ kramdown:
 # port: 1234
 
 # url
-category_dir: category/
-tag_dir: tag/
+category_dir: 
+tag_dir: 
 
 # excerpt
 excerpt_separator: "\n\n\n\n"
