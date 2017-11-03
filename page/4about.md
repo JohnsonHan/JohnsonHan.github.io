@@ -10,9 +10,18 @@ type: page
 {:toc}
 
 
-## 关于我
+## 基本信息
+中文名：韩晓建
 
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=r00104XVFyV&tiny=0&auto=0" allowfullscreen></iframe>
+英文名：Johnson Han
+
+生日：1989-11-29
+
+所在地：中国 重庆市 
+
+联系方式：xiaojianhan@outlook.com
+
+备注：您发送邮件后，如果在下周一前没有得到回复，那说明Johnson没有回复您的打算。
 
 ## Comments
 
