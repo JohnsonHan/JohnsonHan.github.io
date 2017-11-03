@@ -1,6 +1,16 @@
+---
+layout: post
+title:  "页面调试，请使用者忽略"
+categories: 站点导航
+tags:  test
+author: Johnson Han
+---
+
+页面调试页，请使用者忽略
 
 - 插入视频的方式：
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=r00104XVFyV&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" width="100" height="70" src="https://v.qq.com/iframe/player.html?vid=r00104XVFyV&tiny=0&auto=0" allowfullscreen></iframe>
+原值：width="640" height="498"
 
 
 - 应用：aboutme做一个视频介绍（2018-11-11）
@@ -45,5 +55,6 @@
 
 - 代码框
 ```
+type(X)                      #展示X的对象类型
 type(X)                      #展示X的对象类型
 ```
