@@ -6,9 +6,10 @@ tags:  test
 author: Johnson Han
 ---
 
-页面调试页，请使用者忽略
+页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。页面调试页，请使用者忽略。
 
 - 插入视频的方式：
+
 <iframe frameborder="0" width="100" height="70" src="https://v.qq.com/iframe/player.html?vid=r00104XVFyV&tiny=0&auto=0" allowfullscreen></iframe>
 原值：width="640" height="498"
 
@@ -16,31 +17,48 @@ author: Johnson Han
 - 应用：aboutme做一个视频介绍（2018-11-11）
 
 - 标题，最多是六级
+
 #标题1
+
 ##标题2
+
 ###标题3
+
 ####标题4
+
 #####标题5
+
 ######标题6
+
 *斜体*
+
 **粗体**
+
 - 无序列表
+
 - lis
 - list
 - list
+
 - 有序列表
+
 1. list
 2. list
 3. list
 3.list
+
 - 块注释
+
 > zhushi
 >> zhushi ll
 >>> zhushi 
+
 - 超链接
+
 [baidu homepage](www.baidu.com)
 
 - 图片展示
+
 [图片](c:\github\JohnsonHan.github.io\_drafts\Demopic.png)
 
 -插入图片展示
@@ -48,12 +66,14 @@ author: Johnson Han
 ![图片](c:\github\JohnsonHan.github.io\_drafts\Demopic.png)
 
 插入表格
+
 |a|b|c|
 |-|-|-|
 |A|B|C|
 |A|B|C|
 
 - 代码框
+
 ```
 type(X)                      #展示X的对象类型
 type(X)                      #展示X的对象类型
