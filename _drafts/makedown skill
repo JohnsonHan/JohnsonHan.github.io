@@ -23,3 +23,27 @@
 2. list
 3. list
 3.list
+- 块注释
+> zhushi
+>> zhushi ll
+>>> zhushi 
+- 超链接
+[baidu homepage](www.baidu.com)
+
+- 图片展示
+[图片](c:\github\JohnsonHan.github.io\_drafts\Demopic.png)
+
+-插入图片展示
+
+![图片](c:\github\JohnsonHan.github.io\_drafts\Demopic.png)
+
+插入表格
+|a|b|c|
+|-|-|-|
+|A|B|C|
+|A|B|C|
+
+- 代码框
+```
+type(X)                      #展示X的对象类型
+```
