@@ -56,6 +56,7 @@ type: page
 - [北京大学/生物信息学：导论与方法](http://www.chinesemooc.org/mooc/4393/)
 
     Note：孟大神建议先听山东版后听北京版
+    
 ### 5.2 生物信息学项目实践
 - [基因课](http://www.genek.tv/)
 
