@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JIN Lab
+title: XX Lab
 permalink: /other/
 icon: heart
 type: page
