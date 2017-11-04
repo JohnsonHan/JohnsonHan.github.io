@@ -23,7 +23,7 @@ type: page
 
 - 生物信息学交流QQ群
 
-Note：课程学习者的交流平台，参加Live课程后可以获得进入权限。
+    Note：课程学习者的交流平台，参加Live课程后可以获得进入权限。
 
 ## 2. 常用软件下载
 - [Ubuntu](http://cn.ubuntu.com/download/)
@@ -34,7 +34,7 @@ Note：课程学习者的交流平台，参加Live课程后可以获得进入权
 - [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 
 ## 3. 常用数据库及Raw Data
-Note：提供百度云地址
+    Note：提供百度云地址
 
 - 人类基因组 hg38.fa
 
@@ -44,22 +44,22 @@ Note：提供百度云地址
 
 - [编程语言中文书籍清单](http://siberiawolf.com/free_programming/index.html)
 
-Note：涵盖了各种编程语言的书，看到死也看不完。
+    Note：涵盖了各种编程语言的书，看到死也看不完。
 - [制图配色-COOLORS](https://coolors.co/)
 - 《概率论与数理统计》浙大版
 
-Note：如果学习概率论与数理统计，孟大神推荐这个版本。
+    Note：如果学习概率论与数理统计，孟大神推荐这个版本。
 
 ## 5. 提及的公开课
 ### 5.1 生物信息学课程
 - [山东大学/生物信息学](http://www.icourse163.org/course/SDU-1001907001)
 - [北京大学/生物信息学：导论与方法](http://www.chinesemooc.org/mooc/4393/)
 
-Note：孟大神建议先听山东版后听北京版
+    Note：孟大神建议先听山东版后听北京版
 ### 5.2 生物信息学项目实践
 - [基因课](http://www.genek.tv/)
 
-Note：简短的生物信息工具及分析讲解。
+    Note：简短的生物信息工具及分析讲解。
 
 ## 6. Live课程上机部分
  
