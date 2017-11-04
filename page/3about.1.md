@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 孟浩巍的归档
+title: 人工归档
 permalink: /other/
 icon: heart
 type: page

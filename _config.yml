@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: JohnsonShareCenter
-brief-intro: Immunotherapy
+title: 生物信息学交流群
+brief-intro: Bioinformatics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://JohnsonHan.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username:
 dribbble_username:
 
-description_footer: 记录成长，分享知识
+description_footer: 积累&成长
 
 # comments
 # two ways to comment, only choose one, and use your own short name
