@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我
+title: 关于我们
 permalink: /about/
 icon: heart
 type: page
@@ -10,19 +10,31 @@ type: page
 {:toc}
 
 
-## 基本信息
+##实验室信息
+所属机构：重庆医科大学/基础医学院/免疫教研室/金艾顺课题组
+实验室PI：金艾顺
 
-中文名：韩晓建
+##实验室成员
+- professor01：金艾顺 教授
 
-英文名：Johnson Han
+照片待添加
 
-生日：1989-11-29
+“致力于研究生科研技能教育一直是我的兴趣之一，希望同学们可以通过本平台学到知识，应用在日常的科研工作中。”
 
-所在地：中国 XXX市 
+- student01：黄晶晶
 
-联系方式：xiaojianhan@outlook.com
+照片待添加
 
-备注：您发送邮件后，如果在下周一前没有得到回复，那说明Johnson没有回复您的打算。
+- student02：孙欣
+
+- student03：韩晓建（Johnson Han）
+
+“边学边分享”
+##人才招聘
+### 招聘博后
+了解详情
+
+加入方式：将申请简历发送至 aishunjin@cqmu.edu.cn
 
 ## Comments
 

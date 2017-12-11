@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "生信资料整理归档"
-categories:生物信息学自学笔记
-tags:  资源清单
-author: Johnson Han
+layout: page
+title: 孟浩巍分享归档
+permalink: /other/
+icon: heart
+type: page
 ---
+
 * content
 {:toc}
 
@@ -83,3 +84,7 @@ Note：提供百度云地址
 
 发布时间：2017-10-30  暂时未发布
 
+
+## Comments
+
+{% include comments.html %}
