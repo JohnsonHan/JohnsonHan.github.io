@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 实验室平台
-permalink: /other1bb/
+permalink: /platform/
 icon: th-list
 type: page
 ---
