@@ -2,7 +2,7 @@
 layout: page
 title: 实验室平台
 permalink: /other/
-icon: heart
+icon: th-list
 type: page
 ---
 
