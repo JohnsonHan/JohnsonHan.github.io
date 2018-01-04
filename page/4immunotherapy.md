@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 肿瘤免疫治疗
-permalink: /other/
+permalink: /other2aa/
 icon: th-list
 type: page
 ---
