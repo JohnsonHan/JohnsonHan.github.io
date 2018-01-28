@@ -9,7 +9,7 @@ type: page
 {:toc}
 ## 目的
 
-Discussion Group Homepage 用于发布周六讨论成员发布的PPT视频，便于成员相互交流与学习。
+Discussion Group Homepage 用于整理、发布周六讨论成员发布的PPT及视频，便于成员相互交流与学习。
 
 讨论成员：Aishunjin, Richard Feng, Yin Li, Johnson Han
 
