@@ -19,13 +19,17 @@ Discussion Group Homepage 用于整理、发布周六讨论成员发布的PPT及
 
 ## From Richard Feng
 
+<embed src='http://player.youku.com/player.php/sid/XMzEzODY2NTE2NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+
 ## From Yin Li
+
+<embed src='http://player.youku.com/player.php/sid/XMzEzODY2NTE2NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 ## From Johnson Han
 
 1. Demo Vedio
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzEzODYwMjQ4NA==' frameborder=0 'allowfullscreen'></iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzEzODY2NTE2NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 ## Comments
 
