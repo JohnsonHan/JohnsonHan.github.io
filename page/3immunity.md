@@ -13,7 +13,7 @@ type: page
 
 Discussion Group Homepage 用于整理、发布周六讨论成员发布的PPT及视频，便于成员相互交流与学习。
 
-讨论成员：Aishunjin, Richard Feng, Yin Li, Johnson Han
+讨论成员：Aishunjin, Richard Feng, Ying Li, Johnson Han
 ### 关于的资料获取
 
 文档查看权限：百度云盘储存，需输入密码才可进行下载
@@ -30,7 +30,7 @@ Discussion Group Homepage 用于整理、发布周六讨论成员发布的PPT及
 
 ## From Richard Feng
 
-## From Yin Li
+## From Ying Li
 
 ## From Johnson Han
 
