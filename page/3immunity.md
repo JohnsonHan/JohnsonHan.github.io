@@ -36,7 +36,11 @@ Discussion Group Homepage 用于整理、发布周六讨论成员发布的PPT及
 
 ### 1. 调研报告
 
-[高通量测序](http://v.youku.com/v_show/id_XMzEzODYwMjQ4NA==.html)
+1.1 [高通量测序](http://v.youku.com/v_show/id_XMzEzODYwMjQ4NA==.html)
+
+1.2 治疗靶点
+
+1.3 基因编辑技术及在未来我们项目的应用
 
 ### 2. 专业知识
 
