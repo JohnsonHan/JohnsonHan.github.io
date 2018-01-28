@@ -15,7 +15,7 @@ Discussion Group Homepage 用于周六讨论后资料的整理，便于日后查
 
 视频播放权限：私密，需密码才能进行播放。
 
-<iframe frameborder="0" width="640" height="498" src="http://v.youku.com/v_show/id_XMzEzODYwMjQ4NA==.html"allowfullscreen></iframe>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzEzODYwMjQ4NA==' frameborder=0 'allowfullscreen'></iframe>
 
 
 ## Comments
