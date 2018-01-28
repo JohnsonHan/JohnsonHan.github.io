@@ -36,6 +36,8 @@ Discussion Group Homepage 用于整理、发布周六讨论成员发布的PPT及
 
 ### 1. 调研报告
 
+原则：主题来源是周六的小组讨论；当主题增多时，按照优先级排序，依次调研；每周调研一个主题。
+
 1.0 [高通量测序](http://v.youku.com/v_show/id_XMzEzODYwMjQ4NA==.html) （仅用于展示）
 
 1.1 治疗靶点
