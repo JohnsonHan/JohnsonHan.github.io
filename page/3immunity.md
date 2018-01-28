@@ -36,9 +36,9 @@ Discussion Group Homepage 用于整理、发布周六讨论成员发布的PPT及
 
 ### 1. 调研报告
 
-1.1 [高通量测序](http://v.youku.com/v_show/id_XMzEzODYwMjQ4NA==.html) （仅用于展示）
+1.0 [高通量测序](http://v.youku.com/v_show/id_XMzEzODYwMjQ4NA==.html) （仅用于展示）
 
-1.0 治疗靶点
+1.1 治疗靶点
 
 开始时间：2018-01-28
 
