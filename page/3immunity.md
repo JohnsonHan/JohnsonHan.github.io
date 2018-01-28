@@ -1,17 +1,22 @@
 ---
 layout: page
-title: 免疫学
+title: DisGroup Homepage
 permalink: /student/
 icon: th-list
 type: page
 ---
-## 目的
-
-本网站的免疫学部分的内容，作为本科免疫学教育的辅助学习资料。
 * content
 {:toc}
+## 目的
 
-待添加
+Discussion Group Homepage 用于周六讨论后资料的整理，便于日后查询，阅读。
+
+成员：Aishunjin, Richard Feng, Yin Li, Johnson Han
+
+视频播放权限：私密，需密码才能进行播放。
+
+<iframe frameborder="0" width="640" height="498" src="http://v.youku.com/v_show/id_XMzEzODYwMjQ4NA==.html"allowfullscreen></iframe>
+
 
 ## Comments
 
